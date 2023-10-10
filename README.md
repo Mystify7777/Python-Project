@@ -17,3 +17,7 @@
 | 9 | Jarvis Using Python | [Sahil Kumar](https://github.com/SahilKumarIN) |
 | 10 | Weather App | [Nafisha Aslam](https://github.com/Nafisha08)
 | 11 | Rock, Paper, Scissors | [Avyukt Soni](https://github.com/avyuktsoni0731) |
+| 12 | Birthday Calendar| [ASHISH SINHA](https://github.com/ashishbuster)  |
+| 13 | Data Visualization Dashboard | [Prikshit Sharma](https://github.com/Prikshit7766) |
+| 14 | Prime Number program| [Moola Pravalesh](https://github.com/MoolaPravalesh19) |
+| 15 | Voice Assistant |  [Supratik Maji ](https://github.com/Supratimaji) |
